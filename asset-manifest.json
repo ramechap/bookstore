@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/react-gh-pages/static/css/main.0bf5681b.css",
-    "main.js": "/react-gh-pages/static/js/main.704d1e15.js",
-    "static/js/453.1f04a201.chunk.js": "/react-gh-pages/static/js/453.1f04a201.chunk.js",
-    "static/media/logo.jpg": "/react-gh-pages/static/media/logo.555ccc4ee445823b79c8.jpg",
-    "static/media/createpost.jpg": "/react-gh-pages/static/media/createpost.b78ccda086c8091a8c30.jpg",
-    "static/media/adminprofile.jpg": "/react-gh-pages/static/media/adminprofile.052a4f2b61f4a5038641.jpg",
-    "index.html": "/react-gh-pages/index.html",
-    "main.0bf5681b.css.map": "/react-gh-pages/static/css/main.0bf5681b.css.map",
-    "main.704d1e15.js.map": "/react-gh-pages/static/js/main.704d1e15.js.map",
-    "453.1f04a201.chunk.js.map": "/react-gh-pages/static/js/453.1f04a201.chunk.js.map"
+    "main.css": "/bookstore/static/css/main.0bf5681b.css",
+    "main.js": "/bookstore/static/js/main.e707eb38.js",
+    "static/js/453.1f04a201.chunk.js": "/bookstore/static/js/453.1f04a201.chunk.js",
+    "static/media/logo.jpg": "/bookstore/static/media/logo.555ccc4ee445823b79c8.jpg",
+    "static/media/createpost.jpg": "/bookstore/static/media/createpost.b78ccda086c8091a8c30.jpg",
+    "static/media/adminprofile.jpg": "/bookstore/static/media/adminprofile.052a4f2b61f4a5038641.jpg",
+    "index.html": "/bookstore/index.html",
+    "main.0bf5681b.css.map": "/bookstore/static/css/main.0bf5681b.css.map",
+    "main.e707eb38.js.map": "/bookstore/static/js/main.e707eb38.js.map",
+    "453.1f04a201.chunk.js.map": "/bookstore/static/js/453.1f04a201.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.0bf5681b.css",
-    "static/js/main.704d1e15.js"
+    "static/js/main.e707eb38.js"
   ]
 }
