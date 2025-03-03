@@ -1,0 +1,25 @@
+.searchnow{
+    text-align: center;
+    justify-content: space-evenly;
+}
+
+.searchnow .searchinput{
+    text-align: center;
+display: inline-block;
+border: 3px solid black;
+width: 70%;
+border-radius: 20px;
+color: black;
+font-size: larger;
+vertical-align: middle;
+}
+@media (max-width: 768px) {
+    .searchnow .searchinput{
+        text-align: center;
+    display: inline-block;
+    
+    width: 100%;
+    font-size: larger;
+    vertical-align: middle;
+    }
+}

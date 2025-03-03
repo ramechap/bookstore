@@ -1,0 +1,32 @@
+.home{
+    margin-top: 130px;
+    overflow-x: hidden;
+    overflow-y: auto;
+}
+.auth{
+    display: flex;
+gap: 1rem;
+text-align: center;
+    -ms-flex-align: center;
+    -ms-flex-pack: center;
+    -webkit-box-align: center;
+    align-items: center;
+    -webkit-box-pack: center;
+    justify-content: center;
+    padding-top: 40px;
+    padding-bottom: 40px;
+
+}
+.auth>form{
+    display: flex
+;
+padding: 30px;
+    flex-direction: column;
+    gap: 1rem;
+    align-items: anchor-center;
+    background-color: transparent;
+    border: 1px solid black;
+    border-radius: 20px;
+    height: auto;
+    width: 70vh;
+}
